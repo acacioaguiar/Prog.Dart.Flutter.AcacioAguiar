@@ -5,4 +5,4 @@
 # Atividade 1
 ## 1 - Instalar o SDK do Dart.
 
-Imagem: !(avaliacoes\avaliacao-01\Print_Instalação_Dart.png)
+![Print_1º_Avaliação] (avaliacoes\avaliacao-01\Print_Instalação_Dart.png)
