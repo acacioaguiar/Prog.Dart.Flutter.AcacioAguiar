@@ -5,4 +5,4 @@
 # Atividade 2
 ## 2 - Evidenciar por meio de prints a instalação do VsCode..
 
-![Print_1º_Avaliação] (avaliacoes\avaliacao-02\Instalação do VSCode.png)
+![Print_2º_Avaliação] (avaliacoes\avaliacao-02\Instalação do VSCode.png)
